@@ -22,7 +22,7 @@ Where the screenshot showed a generic pattern instead of a direct LeetCode probl
 | Arrays | 268 | Missing Number | ✓ |
 | Arrays | 448 | Find All Numbers Disappeared in an Array | ☐ |
 | Sliding Window | N/A | Maximum Sum Subarray of Size K | ☐ |
-| Sliding Window | 3 | Longest Substring Without Repeating Characters | ☐ |
+| Sliding Window | 3 | Longest Substring Without Repeating Characters | ✓ |
 | Sliding Window | 424 | Longest Repeating Character Replacement | ☐ |
 | Sliding Window | 209 | Minimum Size Subarray Sum | ☐ |
 | Sliding Window | 567 | Permutation in String | ☐ |
