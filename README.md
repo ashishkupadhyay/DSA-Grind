@@ -26,7 +26,7 @@ Where the screenshot showed a generic pattern instead of a direct LeetCode probl
 | Sliding Window | 424 | Longest Repeating Character Replacement | ☐ |
 | Sliding Window | 209 | Minimum Size Subarray Sum | ☐ |
 | Sliding Window | 567 | Permutation in String | ☐ |
-| Sliding Window | 438 | Find All Anagrams in a String | ☐ |
+| Sliding Window | 438 | Find All Anagrams in a String | ✓ |
 | Sliding Window | 239 | Sliding Window Maximum | ☐ |
 | Binary Search | N/A | Binary Search | ☐ |
 | Binary Search | 34 | Find First and Last Position of Element in Sorted Array | ☐ |
