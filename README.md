@@ -2,7 +2,6 @@
 
 Legend: `☐` = not marked yet, `✓` = solved, `✗` = not solved.
 
-Where the screenshot showed a generic pattern instead of a direct LeetCode problem, I marked the number as `N/A`.
 
 
 | Category | LeetCode # | Question | Remark |
